@@ -1,2 +1,2 @@
-# Arquitetura-e-C-lculo
-Projetos desenvolvidos na cadeira de Arquitetura e Cálculo
+# Arquitetura e Cálculo
+Projetos desenvolvidos para a cadeira de Arquitetura e Cálculo
